@@ -93,7 +93,7 @@ function App() {
       <div className='app_status'>
       <Infobox
             onClick={(e) => setCasesType("cases")}
-            title="Coronavirus Cases"
+            title="Corona Cases"
             isRed
             active={casesType === "cases"}
             cases={prettyPrintStat(countryInfo.todayCases)}
