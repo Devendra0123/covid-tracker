@@ -39,10 +39,10 @@ body{
     }
     .app_right{
     margin-top:10px;
-        border-radius:10px;
+        border-radius:25px;
     
     }
-    .app_right > h3{
+    h3{
     padding:5px 0;
     }
 }
